@@ -1,9 +1,38 @@
-# nature-skills 
+# nature-skills
+
+<p align="center">
+  <strong>Primary-source academic skills for turning research drafts, figures, data statements, and papers into submission-ready outputs.</strong><br/>
+  <sub>Solves the common problem of vague AI writing advice by encoding concrete journal-style rules, workflows, and validation checks as reusable skills.</sub>
+</p>
+
+<p align="center">
+  <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
+</p>
+
+> **Lling0000 fork / edition note**
+> This repository is a fork of [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills). The Lling0000 edition keeps the upstream academic-skill collection visible and reusable, with clearer front-door notes for discovery, attribution, and day-to-day use. It does not claim original authorship of the upstream work. See [FORK.md](FORK.md) for attribution details.
+
 | Overview | Community |
 | :--- | :---: |
 | **Welcome! Let's co-create nature-skills.**<br><br>A growing collection of Claude skills for producing academic work at *Nature*-journal standard.<br><br>Currently covering scientific figures, manuscript prose, data availability, and paper-to-presentation workflows; future releases may add related tasks such as statistical reporting, peer‑review responses, and methods writing.<br><br>**Our philosophy** — Every skill in this collection shares a common philosophy: rules are derived from **primary sources** (published *Nature* papers, journal author guidelines, and structured writing curricula), not from general style intuition. | <img width="200" src="https://github.com/user-attachments/assets/c7e93192-5a45-49dd-82b9-8a5fe90b8025" /><br><br>*The group is currently full. Please contact the administrator if you’d like to join.* |
 
 ---
+
+## Lling0000 edition
+
+This fork is useful if you want a compact, inspectable set of research-writing and research-output skills without treating the fork as a new upstream project.
+
+- **Why this fork exists** — to keep the skill set easy to discover from the Lling0000 account and to make the README clearer about source basis, skill status, and reuse boundaries.
+- **What changed in this edition** — front-door documentation and attribution notes; the skill directories remain the core upstream content.
+- **Best for** — researchers, PhD students, lab members, and AI-workflow builders who need explicit rules for figures, manuscript prose, data availability, and paper-to-PPT workflows.
+- **Not a substitute for** — journal instructions, supervisor review, ethics review, statistical review, or manual verification of citations and data availability claims.
+
+## Quick use
+
+1. Choose a skill from the [Skill index](#skill-index).
+2. Open that skill's `README.md` to understand scope, inputs, outputs, and rule basis.
+3. Copy or install the corresponding skill folder into your agent or Claude/Codex skills workspace.
+4. Keep the cited source basis visible when adapting the rules for a real manuscript or lab workflow.
 
 ## Skill index
 
